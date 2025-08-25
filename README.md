@@ -20,6 +20,11 @@ A partir del dataset `ruidoso.txt`, se realizaron las siguientes tareas:
 El trabajo incluye código en **Python**, utilizando librerías como:  
 `pandas`, `numpy`, `matplotlib` y `seaborn`, para la visualización, detección y tratamiento de los problemas en los datos.  
 
+## 📂 Archivos principales
+- `trabajo1.qmd`: Archivo fuente del proyecto (Quarto en python).
+- `trabajo1.html`: Reporte generado a partir del QMD.
+- `dataset.txt`: Base de datos utilizada.
+
 ---
 
 ✍️ *Autores: Juan Carvajal y Carmen zabaleta*  
